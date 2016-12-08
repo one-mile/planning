@@ -3,8 +3,6 @@
 As a user I would like to be able to:
 
 * Press a button to create an account
-* Enter my login details to log in
-* Login using my facebook/other social media account
 * View all photos taken
 * Take my own photo and have it automatically upload
 * Double-tap a photo to 'like' it
