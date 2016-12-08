@@ -1,6 +1,6 @@
 ## Cordova Documentation:
 // general documentation
-(https://cordova.apache.org/docs/en/latest/)
+https://cordova.apache.org/docs/en/latest/
 // npm cordova-plugin-camera
 https://www.npmjs.com/package/cordova-plugin-camera
 // accompanying docs
