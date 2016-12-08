@@ -37,7 +37,9 @@
 * Teamwork!
 * Recap of ALL THE THINGS.
 
+![plan]
 
+[plan]: https://github.com/one-mile/planning/blob/master/Image%208-12-16%20at%202.42%20PM.jpg
 
 
 
