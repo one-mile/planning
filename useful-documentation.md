@@ -22,3 +22,5 @@ https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-camera/index.
 ## Useful questions:
 * use an onchange event to upload photo automatically
 http://stackoverflow.com/questions/17241707/using-form-input-to-access-camera-and-immediately-upload-photos-using-web-app
+
+* handling touch events http://hammerjs.github.io/
