@@ -32,3 +32,7 @@ http://stackoverflow.com/questions/17241707/using-form-input-to-access-camera-an
 ## Other Resources:
 * tank u joseph 
 https://github.com/josephquested/dungeons-and-browsers
+* revokeObjectURL 
+https://developer.mozilla.org/en-US/docs/Web/API/URL/revokeObjectURL
+* fileReader.readAsDataURL 
+https://developer.mozilla.org/en-US/docs/Web/API/FileReader/readAsDataURL
